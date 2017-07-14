@@ -1,8 +1,8 @@
 {% set name = "jupyter-themer" %}
-{% set version = "0.3.0" %}
+{% set version = "0.4.0" %}
 {% set compress_type = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash = "32eb16490df0eb39839d2a4a848cdb92aa25418d582e9e2ca10dfecc6ae30e95" %}
+{% set hash = "67de747b431c869e780453adf08d396cf911e94e37dbf36ce7ff0d6d9e7f09d3" %}
 {% set build = 0 %}
 
 package:
